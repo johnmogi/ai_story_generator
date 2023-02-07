@@ -1,3 +1,2 @@
 # ai_story_generator
-# ai_story_generator
-# ai_story_generator
+https://github.com/johnmogi/ai_story_generator
