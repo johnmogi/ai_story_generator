@@ -3,11 +3,13 @@ Chapter 1: The Journey Begins (Black)
 The protagonist sets out on a trip to Italy with only a backpack and rastas.
 He travels mainly on foot and cooks his own meals.
 He plays a game with himself to explore his ideas of good and bad.
+
 Chapter 2: The White Character (White)
 
 The protagonist explores his image of good and becomes meditative and slow.
 He tries to bless others with peace and harmony through juggling and singing.
 He begins to suspect that his "white energy" is an alien in the world.
+
 Chapter 3: The Dark Character (Gray)
 
 The protagonist explores his image of bad and becomes chaotic and seeks pleasure.
@@ -41,3 +43,5 @@ Chapter 9: Tales from the Void (Green)
 The protagonist publishes his novel, "Tales from the Void."
 He reflects on his journey and the lessons he's learned.
 He feels fulfilled and ready to continue his journey as Angel.
+
+
