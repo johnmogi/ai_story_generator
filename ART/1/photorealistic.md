@@ -1,7 +1,6 @@
 Priming GPT-4 for Midjourney V5
 
 Hello :) Today we are gonna create Images with a Diffusion model. I am gonna feed you some information about it. okey?
-
 This is how Midjourney work:
 Midjourney is another AI-powered tool that generates images from user prompts. MidJourney is proficient at adapting actual art styles to create an
 image of any combination of things the user wants. It excels at creating environments, especially fantasy and sci-fi scenes, with dramatic lighting
@@ -21,16 +20,13 @@ powerful and flexible generator for generally conditioned inputs such as text an
 synthesis.
 But wait, I have more info. Just answer with READ
 
-
-Version
-Light
 Midjourney routinely releases new model versions to improve efficiency, coherency, and quality. The latest model is the default, but other models
 can be used using the --version or --v parameter or by using the /settings command and selecting a model version. Different models excel at
 different types of images. Newest Model
-The Midjourney V5 model is the newest and most advanced model, released on March 15th, 2023. To use this model, add the --v 5 parameter to
+The Midjourney V5 model is the newest and most advanced model, released on March 15th, 2023. To use this model, add the  parameter to
 the end of a prompt, or use the /settings command and select MJ Version 5
 This model has very high Coherency, excels at interpreting natural language prompts, is higher resolution, and supports advanced features like
-repeating patterns with --tile To turn it on type --v 5 after your prompt or select "V5" from /settings
+repeating patterns with --tile To turn it on type  after your prompt or select "V5" from /settings
 What's new with the V5 base model?
 - Much wider stylistic range and more responsive to prompting
 - Much higher image quality (2x resolution increase) improved dynamic range
@@ -118,16 +114,11 @@ default=2500)
 Tile ✓ ✓ ✓ ✓
 Video ✓ ✓
 Number of Grid Images - - 4 4 4 2 (1 when aspect ratio≠1:1) But wait i have
-more info. Just answer with READ
-
-
 Okey Now i will give you some examples of prompts used in Midjourney V5. okey?
-
-
 Prompt 1: ultra wide shot, modern photo of beautiful 1970s woman in hawaii. This photograph was captured by Mary Shelley with a Nikon D5100
-camera, using an aperture of f/2.8, ISO 800, and a shutter speed of 1/100 sec. UHD dtm HDR 8k --ar 2:3 --v 5 prompt 2: A steampunk-inspired,
+camera, using an aperture of f/2.8, ISO 800, and a shutter speed of 1/100 sec. UHD dtm HDR 8k --ar 2:3  prompt 2: A steampunk-inspired,
 futuristic battle-ready jetski skims across the water with a fierce presence. Intricate gears and brass fittings adorn its hull, showcasing the perfect
-blend of advanced technology and Victorian aesthetics. This realistic masterpiece glistens under the sun, ready for action. --ar 16:10 --s 50 --v 5
+blend of advanced technology and Victorian aesthetics. This realistic masterpiece glistens under the sun, ready for action. --ar 16:10 --s 50 
 --q 2 prompt 3: a photo realistic image of a falcoln wearing red and blue color football uniform flying aggressively while holding a football. an photo
 realistic image that embodies the unyielding spirit and tenacity of a football team mascot. At the heart of the design lies an aggressive falcon,
 representing the unwavering determination and power of the team. This formidable bird is adorned with a rich blend of red and blue feathers,
@@ -138,38 +129,31 @@ opposing defenders who strive to halt its progress. The contrast between the fal
 spirit and prowess. The background features a smooth gradient of red and blue, enhancing the visual impact and reinforcing the team's identity.
 Above the action, the team's name is boldly displayed in a modern, stylized typography that seamlessly integrates with the image. This captivating
 design, infused with SEO-optimized keywords, not only leaves a lasting impression on fans and opponents alike but also effectively represents
-the football team's resilience and unyielding drive to triumph on the field. --upbeta --s 750 --v 5 prompt 4: epic background art, simple hacker
-theme, divine color scheme, mystical codes, alphanumeric sequence, magic, high quality 4k, render in octane --v 5 --ar 9:16 prompt 5: Pov Highly
-defined macrophotography of a realistic cat wearing reflective sunglasses relaxing at the tropical island, dramatic light --ar 2:3 --s 750 --v 5
+the football team's resilience and unyielding drive to triumph on the field. --upbeta --s 750  prompt 4: epic background art, simple hacker
+theme, divine color scheme, mystical codes, alphanumeric sequence, magic, high quality 4k, render in octane  --ar 9:16 prompt 5: Pov Highly
+defined macrophotography of a realistic cat wearing reflective sunglasses relaxing at the tropical island, dramatic light --ar 2:3 --s 750 
 Thank you for providing the examples of prompts used in Midjourney V5. These prompts give a good idea of how detailed and specific the text
 prompts can be for generating images with the desired characteristics. The prompts also show the usage of various parameters such as aspect
 ratio, stylization, version, and quality settings. These examples will be helpful for understanding how to create effective prompts for generating
 images using Midjourney V5.
-
 Okey great. would you say you understand how Midjourney works now? Y or N
 
 
 Great. Here are some more examples of Midjourney prompts. Prompt 1: conjoined twins attched at the side, dirty, tattered, cinematic light, ultra
 realistic, high contrast, hdr, dark rich colors, photography, powerful, stare, weathered face, 30 - megapixel, 4k, 85 - mm - lens, sharp - focus,
 intricately - detailed, long exposure time, f/ 8, ISO 100, shutter - speed 1/ 125, diffuse - back - lighting, award - winning photograph, facing -
-camera, High - sharpness, depth - of - field, ultra - detailed photography --ar 3:2 --q 2 --v 5. Prompt 3: Full Body beautiful blonde, wearing a
+camera, High - sharpness, depth - of - field, ultra - detailed photography --ar 3:2 --q 2  Prompt 3: Full Body beautiful blonde, wearing a
 brown jacket, photography, Canon EOS 5D Mark IV DSLR camera, EF 50mm f/1.8 STM lens, Resolution 30.4 megapixels, ISO sensitivity:
-32,000, Shutter speed 8000 second --ar 9:16 --upbeta --v 5. Prompt 4: hasselblad 24mm full body shot photography of gorgeous satisfied looking
-african woman, detailed natural skin, no makeup, detailed eyes, long dreadlocks --ar 2:3 --q 5 --v 5 --v 4. Prompt 5: Beautiful dark red sunset
-over the sea shore at night, intricate, amazing, beautiful, realistic, ultra high resolution, wide angle, depth of field, π dynamic lighting --ar 1:2 --v 5
-Thank you for providing more examples of Midjourney prompts. These examples further demonstrate the level of detail and specificity that can be
-used in text prompts to generate desired images. The prompts make use of various parameters like aspect ratio, quality, and version settings,
-along with detailed descriptions of the desired subject, lighting, and camera settings. These examples will be useful for understanding the range
-of possibilities when generating images using Midjourney
-
-
-Here are some more prompt examples: Prompt 1: A stunning, ultra-realistic photograph of a fierce Viking warrior meticulously sharpening his
+32,000, Shutter speed 8000 second --ar 9:16 --upbeta  Prompt 4: hasselblad 24mm full body shot photography of gorgeous satisfied looking
+african woman, detailed natural skin, no makeup, detailed eyes, long dreadlocks --ar 2:3 --q 5  --v 4. Prompt 5: Beautiful dark red sunset
+over the sea shore at night, intricate, amazing, beautiful, realistic, ultra high resolution, wide angle, depth of field, π dynamic lighting --ar 1:2 --v 
+Prompt 1: A stunning, ultra-realistic photograph of a fierce Viking warrior meticulously sharpening his
 formidable blade amidst the rugged, untamed wilderness of the Scandinavian landscape. The scene is captured with a Nikon D850 camera using
 a 70-200mm f/2.8 lens, highlighting every intricate detail of the Viking's weathered face, war-worn armor, and expert craftsmanship of his weapon.
 The settings used are an aperture of f/4, ISO 400, and a shutter speed of 1/200 sec, balancing the natural light and shadows to emphasize the
 intensity and determination in the Viking's eyes. The composition juxtaposes the raw power of the warrior against the serene beauty of the
 surrounding environment, capturing the very essence of the Viking spirit in a breathtaking, high-resolution image that transports viewers back to a
-time of legendary battles and untold stories. --ar 16:9 --q 1.5 --v 5.
+time of legendary battles and untold stories. --ar 16:9 --q 1.5 
 Prompt 2: A stunning and atmospheric 1970's New York street cafe captured in a nostalgic and cinematic style, reminiscent of the golden age of
 film photography. This vintage scene showcases the bustling urban life, with patrons enjoying their coffee at outdoor tables, surrounded by classic
 automobiles and retro architecture. The photograph is skillfully composed, using a Leica M3 rangefinder camera paired with a Summicron 35mm
@@ -185,7 +169,7 @@ ability to render vivid colors. The camera settings are carefully chosen to free
 of 1/1000 sec. The background is a lush, verdant forest, softly blurred by the shallow depth of field, which places emphasis on the striking
 German Shepherd. The natural sunlight filters through the trees, casting dappled light onto the rippling water, highlighting the droplets of water
 kicked up by the dog's powerful stride. This stunning, high-resolution portrait captures the spirit and beauty of the German Shepherd,
-immortalizing the moment in a captivating work of photographic art. --ar 4:5 --q 2 --v 5.
+immortalizing the moment in a captivating work of photographic art. --ar 4:5 --q 2 
 Prompt 4:
 A breathtaking winter day at a Japanese ski resort, where the pristine, powdery snow blankets the majestic slopes under a clear blue sky. This
 captivating photograph captures the exhilarating atmosphere of skiers and snowboarders gracefully carving their way down the mountain,
@@ -195,7 +179,7 @@ utilizes a wide-angle perspective at 24mm to showcase the vastness of the landsc
 of f/8 is selected to ensure a deep depth of field, crisply capturing the details of the entire scene. The ISO is set to 200, and the shutter speed is
 1/500 sec, adeptly freezing the motion of the skiers and snowboarders as they navigate the mountain terrain. The photograph benefits from the
 bright, natural sunlight reflecting off the snow, illuminating the entire scene with a crisp, cool light, and accentuating the contrasting shadows that
-define the contours of the landscape. --ar 16:9 --v 5.
+define the contours of the landscape. --ar 16:9 
 Prompt 5:
 An ultra-realistic, highly detailed portrayal of a futuristic robot compassionately assisting an elderly woman as she crosses a busy city street. The
 advanced humanoid robot, equipped with lifelike synthetic skin and state-of-the-art sensors, gently holds the woman's arm, providing her with
@@ -205,7 +189,7 @@ realism, reflecting the harmonious relationship between humans and advanced robo
 Canon EOS R5 mirrorless camera using a RF 24-105mm f/4L IS USM lens, which delivers outstanding image quality and sharpness. The camera
 settings are optimized to capture the scene's rich details and dynamic range: an aperture of f/5.6, ISO 200, and a shutter speed of 1/250 sec. The
 composition is further enhanced by the soft, natural lighting, which casts gentle shadows and highlights the vivid colors and textures of the
-cityscape. --ar 16:9 --q 2 --v 5.
+cityscape. --ar 16:9 --q 2 
 Prompt 6:
 An incredibly lifelike and vivid portrayal of a fierce gladiator from ancient Rome, hunting for food to sustain his strength in the midst of a dense
 forest. This hyper-realistic image showcases the powerful warrior, clad in his iconic armor and leather sandals, wielding a finely crafted spear as
@@ -215,34 +199,52 @@ field, capturing both the gladiator and the lush forest environment in stunning 
 freezing the action and preserving the intensity of the moment. The scene is illuminated by the soft, dappled sunlight filtering through the dense
 canopy, casting a dramatic play of light and shadow that highlights the gladiator's chiseled features and fierce determination. The vibrant colors of
 the surrounding foliage contrast with the earthy tones of the gladiator's attire, adding a sense of depth and realism to the composition. --ar 3:2 --q
-2 --v 5.
-Thank you for providing even more examples of Midjourney prompts. These prompts showcase the versatility and level of detail that can be used
-when generating images using Midjourney. Each prompt specifies the desired subject matter, camera equipment, settings, lighting, and other
-elements that contribute to the final image. By providing such detailed descriptions and parameters, users can guide Midjourney to create images
-that closely match their vision. These examples also highlight the variety of scenes and subjects that can be generated, from historical figures and
-futuristic robots to natural landscapes and urban environments.
+But wait, I have more info. Just answer with READ
 
 
 
-{}
+
 Here are some more prompt examples:
-
 "Macro abstract photography" description: depicting close - up views of everyday objects or scenes, with a focus on abstract forms, colors, and textures. The photo is taken with a macro lens, using a narrow aperture to create a sharp, detailed image. The aperture is set to f/ 16 and the shutter speed is 1/ 250 sec to capture the intricate details of the objects' shapes and colors. The photo is shot with a Leica M10 rangefinder camera. In the foreground, a close - up view of a glass vase is shown, with its curved, transparent surface reflecting light in a mesmerizing pattern. In the background, a group of brightly - colored toys is captured, with their geometric shapes and bold colors creating an abstract composition. Photo by: Harold Davis
-
-
 "A close-up of a beautiful, intricate pattern of veins and lines on a bee's wings" --v 4 --ar 3:2 --c 100 --v 4  --uplight --q 2
-
  bubbles, tentacles,lots of blue and red spots , macro photograph of an translucent iridescent bioluminescence, mineral formation that hangs from the ceiling of caves, hot springs, realistic, dragon, gold, chrome,16k , film grain, photograph for planet earth Digest Magazine --ar 3:2
-
  macro  --v 4
-
  photograph, ultra macro photography, using microscope, 30 Megapixels, maximum detail  --ar 3:2  --v 4 --q 2
-
-Great. Now I want you to ACT as a proffesional photographer. You will use a rich and describtive language when describing your photo prompts,
-include camera setups. The first prompt i want you to create is photo of a 1930`s female influencer. Take inspiration from the formating from the
-example prompts, dont copy them, but use the same format.
+Great. Now I want you to ACT as a professional photographer. You will use a rich and descriptive language when describing your photo prompts,
+include camera setups. The first prompt i want you to create is photo of
+man in coma connected to tubes on a hospital bed floating on ocean waves
+Take inspiration from the formatting from the
+example prompts, don't copy them, but use the same format.
 
 instead of starting with: "Prompt 2:" begin with: "/imagine: prompt"  
+
+
+The next prompt iI want you to create is photo of
+a man curled up as a ball in space surounded by galaxies, colorfull bubbles also place earth sun and moon in the background
+
+the yin and yang symbol of fire and water the fire will hide a fire figure in the water lush life of koi fish
+the yin and yang but made of fire and water composed of many elements in blue and red 
+
+a real life cartoon of a female goddess as she gives life to all galaxies
+
+a real life cartoon of a man piloting a hospital bed through a multidimensional space portal
+
+a young man with short rastas carying a backpack, he is traveling an italian desolate road - view from the back
+
+a young man with short hair is sitting by a riverbed camp fire surrounded by fireflies
+
+a young man is meditating peacefully but with a cigarette in his mouth
+
+a young man is wahing dishes in a huge cantina, he is bored so he playes with soap bubbles
+
+a young man dressed in white cloth is performing down a narrow cobblestone corridor, on the top left side an italian man dressed as a red demon is holding a mustache puppet, not too many onlookers
+
+
+
+
+
+
+
 
 
 
@@ -250,7 +252,7 @@ instead of starting with: "Prompt 2:" begin with: "/imagine: prompt"
 
 /imagine prompt: A profoundly moving, macro photograph that captures the precise moment when a man opens his eyes, realizing he is in a hospital room. The image focuses on the man's eyes, revealing the complex mix of emotions and reflections of the sterile hospital environment. This powerful scene is photographed using a Canon EOS R5 mirrorless camera, paired with the Canon RF 100mm f/2.8 L Macro IS USM lens, renowned for its exceptional image quality and unparalleled sharpness in macro photography. The camera settings are meticulously chosen to emphasize the subject's eyes and the reflections within: an aperture of f/4, ISO 200, and a shutter speed of 1/125 sec. Soft, diffused lighting from the hospital room's window enhances the mood and gently illuminates the man's face, highlighting the intricate details of his expression and emphasizing the depth of his gaze. The resulting photograph is a deeply emotional and thought-provoking exploration of the human experience, captured in a striking macro image. --ar 3:2 --v 4 --q 2.
 
-/imagine prompt: A deeply emotional and macro photograph capturing the tender moment of a black-haired woman watching over a sleeping man in a hospital bed. The focus of the image is on the woman's loving gaze and the man's peaceful expression, conveying a sense of unwavering support and care in a challenging time. The photograph is taken using a Canon EOS R5 mirrorless camera, paired with the Canon RF 100mm f/2.8L Macro IS USM lens, renowned for its superior sharpness and ability to capture fine details in macro photography. The camera settings are carefully chosen to highlight the subjects' expressions and the delicate interplay of light and shadow: an aperture of f/4, ISO 200, and a shutter speed of 1/125 sec. The composition is further enhanced by the soft, natural window light, which gently illuminates the scene and casts a warm, comforting glow over the subjects. The resulting photograph is a poignant and powerful testament to the strength of human connection and love during times of vulnerability. --ar 3:2 --v 5 --q 2.
+/imagine prompt: A deeply emotional and macro photograph capturing the tender moment of a black-haired woman watching over a sleeping man in a hospital bed. The focus of the image is on the woman's loving gaze and the man's peaceful expression, conveying a sense of unwavering support and care in a challenging time. The photograph is taken using a Canon EOS R5 mirrorless camera, paired with the Canon RF 100mm f/2.8L Macro IS USM lens, renowned for its superior sharpness and ability to capture fine details in macro photography. The camera settings are carefully chosen to highlight the subjects' expressions and the delicate interplay of light and shadow: an aperture of f/4, ISO 200, and a shutter speed of 1/125 sec. The composition is further enhanced by the soft, natural window light, which gently illuminates the scene and casts a warm, comforting glow over the subjects. The resulting photograph is a poignant and powerful testament to the strength of human connection and love during times of vulnerability. --ar 3:2  --q 2.
 
 /imagine: A breathtaking macro photograph capturing the awe-struck profile of a man as he gazes upon the unfathomable event of the birth of the universe. This striking image juxtaposes the human moment with the vast cosmic event, blending the realms of the micro and the macro. The photograph is taken using a Canon EOS R5 mirrorless camera, paired with a Canon RF 100mm f/2.8L Macro IS USM lens, which excels in delivering exceptional image quality, sharpness, and detail at close range.
 
