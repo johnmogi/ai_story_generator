@@ -57,9 +57,24 @@ https://cdn.discordapp.com/attachments/1019541653993820160/1095487902038900766/J
 prompts
 BG
 --ar 1:1
-
+--niji 5
 --seed 1014611913 --iw .5
 
 Dripping art ::10, Black and gold scheme ::10, girl sleeping ::9.5, bed ::9.5, Massive ocean wave crest ::10, Storm ::9.5
 
 Dripping art ::10, Black and gold scheme ::10, man's face ::10, Cosmos creation ::10
+
+african black natural beauty no makeup simple plain full face 26 years old girl portrait, black and gold scheme dripping art honey drops --seed 1014611913 --ar 4:3
+
+A striking, highly sensual red-hued ink illustration in a tattoo style featuring a african black natural beauty no makeup simple plain full face 26 years old girl riding a dragon. The scene exudes power, passion, and allure, as the girl confidently and gracefully straddles the majestic beast. Her body is adorned with intricate tattoos that match the style of the overall artwork, while her flowing hair adds a sense of movement and fluidity to the composition. The dragon itself is masterfully crafted, showcasing its fierce, mythical nature with every scale and curve. The red hue dominates the piece, symbolizing intensity, desire, and the strong connection between the woman and the dragon. The art style blends traditional tattoo aesthetics with a touch of modern flair, resulting in a visually arresting image perfect for body art enthusiasts. --seed 1014611913 --ar 16:9
+
+
+Close up of beautiful female lips. Glossy, healthy colored lips. Half open. Sigh., --niji 5 --q 5 --s 1000 --iw 2 --ar 9:16 --niji 5 --seed 674105460 
+
+lips
+Seed: 4224459322
+
+https://media.discordapp.net/attachments/1019541653993820160/1095513655983996968/Jonathan_Moguillansky_a_close_up_picture_of_a_womans_lips_in_th_bc9466c7-6125-4b0f-b245-9f172b7499a1.png?width=726&height=378
+
+src
+https://media.discordapp.net/attachments/1019541653993820160/1095512211675418644/image.png?width=805&height=423
