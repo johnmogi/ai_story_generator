@@ -49,3 +49,41 @@ Dripping art ::10, Black and gold scheme ::10, Man sleeping ::9.5, Hospital bed 
 
 --seed 379979388 --iw .5
 --seed 787433810 --iw .5
+
+
+native american 
+black natural beauty adult man no makeup simple plain full face 35 years old adult
+
+
+black natural beauty adult man no makeup simple plain full face 35 years old adult african american young male model portrait, in the style of classical portraiture, close-up intensity, sony fe 12-24mm f/2.8 gm, caricature faces, ballet academia, straight photography, tokina opera 50mm f/1.4 ff
+
+----------------------------------
+
+
+black natural beauty adult man no makeup simple plain full face 35 years old adult 
+1
+https://media.discordapp.net/attachments/1019541653993820160/1096245131897733230/Jonathan_Moguillansky_black_natural_beauty_adult_man_no_makeup__92ab7ab5-9454-48d5-82ec-c61cb3f58141.png?width=423&height=423
+
+dark
+https://media.discordapp.net/attachments/1019541653993820160/1096246528177340576/Jonathan_Moguillansky_black_natural_beauty_adult_man_no_makeup__c85b615a-ab62-4809-b00a-979180476fab.png?width=423&height=423
+
+dark revelation
+https://cdn.discordapp.com/attachments/1019541653993820160/1096261396603355316/Jonathan_Moguillansky_Space_stretches_out_and_a_black_man_lies__9008aded-06eb-4efc-9589-eafb85c4c69e.png
+
+multiple poses and expressions
+black natural beauty adult man no makeup simple plain full face 35 years old adult 
+full body black pants white background
+
+
+portrat
+https://media.discordapp.net/attachments/1019541653993820160/1096248373507538955/Jonathan_Moguillansky_multiple_poses_and_expressions_black_natu_dbaa541b-058d-4700-87bc-fa1fe702fec8.png?width=423&height=423
+
+full body
+https://cdn.discordapp.com/attachments/1019541653993820160/1096251451648508004/Jonathan_Moguillansky_multiple_poses_and_expressions_full_body__852aabb9-8ef9-4aa1-9b2a-c047c1837b81.png
+
+bg
+https://media.discordapp.net/attachments/1019541653993820160/1096253528550408347/Jonathan_Moguillansky_african_black_natural_beauty_no_makeup_si_6f7a863e-6bd4-404d-a9d8-9d441f20dc9f.png?width=562&height=423
+
+https://media.discordapp.net/attachments/1019541653993820160/1096254151199035402/Jonathan_Moguillansky_gorgeous_african_black_natural_beauty_no__b8d9a8ef-0205-46a9-a831-c2ae0eaccf61.png?width=562&height=423
+
+--seed 741705838 --iw .5

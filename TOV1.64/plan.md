@@ -21,3 +21,4 @@ a short recap of each chapter:
 - after a month of solo traveling during which allready on the first week i took a haircut removing my short dreadlocks I arived at toscany and out of boredom mostly started a black and white game image 
 - in the BW game at day time i would play the role of white, slow, focused and meditative, i would cook my 1 daily meal of plain white rice and chow it slowly, at night i played the role of black, smoking ciggaretes and prowling the nearbye village looking for pleasure (mostly ice cream)
 - after a day or so the games got mixed , i found myself smoking a cigarette at the midst of the daily meditation and playing with children 
+
